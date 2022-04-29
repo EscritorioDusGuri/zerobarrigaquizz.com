@@ -89,16 +89,6 @@
         background-color: black;
       }
     </style>
-
-    <!-- Número de Pessoas Assistindo -->
-    <div class="pessoinhas"> 
-    <center> <span style="text-shadow: #ffffff 0px 2px 2px;"> Você e algumas pessoas de <b><span style="background-color:#ca3544; padding: 3px; border-radius: 3px; text-shadow: #000000 0px 2px 2px;"><span id="address"></span></span></b> foram selecionados para participar deste programa...</center></span>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script><script>$.get("https://ipinfo.io/json", function (response) {
-      $("#ip").html("IP: " + response.ip);
-      $("#address").html(response.city);
-      $("#details").html(JSON.stringify(response, null, 4));
-      }, "jsonp");</script>
-    </div>
     
     
     <header class="py-4">
