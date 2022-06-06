@@ -221,7 +221,7 @@ tr {
       border: 0; 
       font: inherit; 
       vertical-align: baseline;
-      color: #2e82bc; 
+      color: #d2d904; 
       outline: 0; 
       line-height: 1; 
       text-align: center; 
@@ -229,9 +229,9 @@ tr {
       border-style: solid; 
       width: 100%; padding-left: 0!important; padding-right: 0!important; 
       margin-bottom: 10px; 
-      padding: 22px 44px; border-color: #ff5535; border-width: 0px; 
+      padding: 22px 44px; border-color: #d2d904; border-width: 0px; 
       border-radius: 6px; 
-      background: linear-gradient(to bottom, #db4352 0%, #ca3544 100%); 
+      background: linear-gradient(to bottom, #bcc21f 0%, #d2d904 100%); 
       box-shadow: 0px 1px 1px 0px rgba(0,0,0,0.5); 
       
       -webkit-animation: pulse 1.0s infinite;}
@@ -239,9 +239,9 @@ tr {
       {
       0% {@include transform scale .9; } 
       70% {@include transform scale 1;
-      box-shadow: 0px 1px 0px 8px rgba(202, 53, 68, 0.7);} 
+      box-shadow: 0px 1px 0px 8px rgba(210, 217, 4, 0.7);} 
       100% {@include transform scale .9; 
-      box-shadow: 0px 1px 0px 8px rgba(202, 53, 68, 0);}
+      box-shadow: 0px 1px 0px 8px rgba(210, 217, 4, 0);}
       }
 
 
@@ -261,7 +261,7 @@ tr {
       padding: 0 15px; 
       white-space: normal; 
       font-size: 25px;
-      color: white; 
+      color: #183940; 
       font-family: Oswald; 
       font-weight: bold; 
       text-shadow: #000000 0px 1px 0px;
@@ -278,7 +278,7 @@ tr {
       z-index: 1; 
       margin: .2em 0 -.5em; 
       font-size: 15px; 
-      color: #f5e051; 
+      color: #183940; 
       font-family: Cabin; 
       font-weight: bold; 
       font-style: italic;
