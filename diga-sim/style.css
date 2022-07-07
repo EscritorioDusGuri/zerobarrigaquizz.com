@@ -1,11 +1,11 @@
 @font-face {
 	font-family: Nunito;
-	src: url("font.ttf");
+	src: url("diga-sim/font.ttf");
 }
 
 @font-face {
 	font-family: Pompiere;
-	src: url("pompiere-Regular.ttf");
+	src: url("diga-sim/pompiere-Regular.ttf");
 }
 
 *, *::before, *::after {
