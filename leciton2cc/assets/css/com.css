@@ -334,6 +334,10 @@ tr {
       margin-bottom: 0;
     }
 
+    .headline2 {
+      padding-top: 35px;
+    }
+
     .direitos-reservados {
       padding: 20px;
      font-family: lato;
